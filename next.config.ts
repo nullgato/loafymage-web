@@ -49,12 +49,12 @@ const nextConfig: NextConfig = {
             },
             {
                 source: '/twitch',
-                destination: 'https://twitch.com/nullmoggi',
+                destination: 'https://twitch.com/nullgato',
                 permanent: false,
             },
             {
                 source: '/youtube',
-                destination: 'https://youtube.com/@BR4TC4T',
+                destination: 'https://youtube.com/@loafymage',
                 permanent: false,
             },
         ]
